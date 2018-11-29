@@ -9,3 +9,4 @@
 *.pyc
 .gitattributes
 **/__pycache__
+/app/settings.py
