@@ -1,7 +1,11 @@
 import os
 from app import app
 
+<<<<<<< HEAD
 SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:root@127.0.0.1:3306/flea"
+=======
+SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:runtu13..@127.0.0.1:3306/flea"
+>>>>>>> master
 
 SESSION_API = 'https://api.weixin.qq.com/sns/jscode2session?appid={}&secret={}&js_code={}&grant_type=authorization_code'
 
